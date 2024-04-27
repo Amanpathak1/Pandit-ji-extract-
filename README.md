@@ -1,7 +1,7 @@
-<img src="https://graph.org/file/9f6c0231a552ff16c3407.jpg" alt="logo" target="logo">
+<img src="https://telegra.ph/file/8ff5a76cbbb01ef605955.jpg" alt="logo" target="logo">
 
 <h1 align="center">
- <b><a href="https://t.me/Txt_DLBot" target="/blank">TxT-DLBot</a></>
+ <b><a href="https://t.me/Amanpathak_bot" target="/blank">Amanpathak_bot</a></>
 </h1>
 
 ### 🔥 ALL VARIABLES
@@ -22,7 +22,7 @@
 
 ### Deploy To Heroku
 
-<a href="https://heroku.com/deploy?template=https://github.com/oVo-HxBots/TxT-DL-Bot">
+<a href="https://heroku.com/deploy?template=https://github.com/oVo-HxBots/Pandit-ji-extract-">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 
